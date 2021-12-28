@@ -8,6 +8,7 @@ const App = () => {
       <Product />
       //here is a new comment to new branchgi and there is also more
     </div>
+    // thats why i added this line
   );
 };
 
